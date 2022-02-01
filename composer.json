@@ -9,7 +9,7 @@
     }
   ],
   "license": "proprietary",
-  "minimum-stability": "alpha",
+  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "App\\": "app/"
