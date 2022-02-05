@@ -1,18 +1,20 @@
 {
-  "name": "althome/exe",
-  "author": [
+  "name": "site.althome/exe",
+  "description": "Example",
+  "type": "library",
+  "licence": "MIT",
+  "authors": [
     {
-      "Name": "Sebastião Medeiros",
-      "email": "sebastian.tecinfig@gmail.com",
-      "homepage": "https://althome.site",
-      "role": "Developer"
+      "name": "Sebastião Medeiros",
+      "email": "sebastian.tecinf@gmail.com"
     }
   ],
-  "license": "proprietary",
-  "minimum-stability": "alpha",
   "autoload": {
     "psr-4": {
       "App\\": "app/"
     }
+  },
+  "require": {
+    "php": ">=5.4"
   }
 }
