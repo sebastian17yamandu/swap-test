@@ -3,6 +3,7 @@
   "description": "Example",
   "type": "library",
   "licence": "MIT",
+  "minimum-stability": "dev-master",
   "authors": [
     {
       "name": "Sebastião Medeiros",
