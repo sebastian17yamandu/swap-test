@@ -9,6 +9,7 @@
       "email": "sebastian.tecinf@gmail.com"
     }
   ],
+  "minimum-stability": "dev-master",
   "autoload": {
     "psr-4": {
       "App\\": "app/"
